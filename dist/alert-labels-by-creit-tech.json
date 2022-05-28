@@ -1,0 +1,558 @@
+{
+  "listName": "Alerts labels by Creit Tech",
+  "description": "A list of assets, issuers and domains that Creit Tech's team has checked and decided to put an alert label on them.",
+  "items": [
+    {
+      "type": "domain",
+      "level": "warning",
+      "value": "stellarmint.io",
+      "message": "This domain (stellarmint.io) has been identified as a potential risk, everybody can use this domain to mint Stellar Assets so it's easy for scammers to mint tokens with this tool. Be careful"
+    },
+    {
+      "type": "domain",
+      "level": "warning",
+      "value": "xmint.io",
+      "message": "This domain (xmint.io) has been identified as a potential risk, everybody can use this domain to mint Stellar Assets so it's easy for scammers to mint tokens with this tool. Be careful"
+    },
+    {
+      "type": "domain",
+      "level": "warning",
+      "value": "tomlhosting.co",
+      "message": "This domain (tomlhosting.co) has been identified as a potential risk, everybody can use this domain to mint Stellar Assets so it's easy for scammers to mint tokens with this tool. Be careful"
+    },
+    {
+      "type": "domain",
+      "level": "warning",
+      "value": "netlify.app",
+      "message": "This domain (netlify.app) has been identified as a potential risk, everybody can use this tool and end up hosting Stellar toml files into subdomains, it's easy for scammers to mint tokens with this tool. Be careful"
+    },
+    {
+      "type": "domain",
+      "level": "danger",
+      "value": "pendulumsafe.pw",
+      "message": "POTENTIAL RISK, we have identified this domain as a risky domain. If you buy stuff from this domain there is a high chance you will lose all your money."
+    },
+    {
+      "type": "domain",
+      "level": "danger",
+      "value": "pendulum.pw",
+      "message": "POTENTIAL RISK, we have identified this domain as a risky domain. If you buy stuff from this domain there is a high chance you will lose all your money."
+    },
+    {
+      "type": "domain",
+      "level": "danger",
+      "value": "stellar-dex.io",
+      "message": "POTENTIAL RISK, we have identified this domain as a risky domain. If you buy stuff from this domain there is a high chance you will lose all your money."
+    },
+    {
+      "type": "domain",
+      "level": "danger",
+      "value": "quantum-system.finance",
+      "message": "POTENTIAL RISK, we have identified this domain as a risky domain. If you buy stuff from this domain there is a high chance you will lose all your money."
+    },
+    {
+      "type": "domain",
+      "level": "danger",
+      "value": "stellarussia.io",
+      "message": "POTENTIAL RISK, we have identified this domain as a risky domain. If you buy stuff from this domain there is a high chance you will lose all your money."
+    },
+    {
+      "type": "domain",
+      "level": "danger",
+      "value": "sber.global",
+      "message": "POTENTIAL RISK, we have identified this domain as a risky domain. If you buy stuff from this domain there is a high chance you will lose all your money."
+    },
+    {
+      "type": "domain",
+      "level": "danger",
+      "value": "expertstellar.com",
+      "message": "POTENTIAL RISK, we have identified this domain as a risky domain. If you buy stuff from this domain there is a high chance you will lose all your money."
+    },
+    {
+      "type": "domain",
+      "level": "danger",
+      "value": "stellar-stocks.com",
+      "message": "POTENTIAL RISK, we have identified this domain as a risky domain. If you buy stuff from this domain there is a high chance you will lose all your money."
+    },
+    {
+      "type": "domain",
+      "level": "danger",
+      "value": "hi-technetwork.com",
+      "message": "POTENTIAL RISK, we have identified this domain as a risky domain. If you buy stuff from this domain there is a high chance you will lose all your money."
+    },
+    {
+      "type": "domain",
+      "level": "danger",
+      "value": "chemitokens.org",
+      "message": "POTENTIAL RISK, we have identified this domain as a risky domain. If you buy stuff from this domain there is a high chance you will lose all your money."
+    },
+    {
+      "type": "domain",
+      "level": "danger",
+      "value": "1754.digital",
+      "message": "POTENTIAL RISK, we have identified this domain as a risky domain. If you buy stuff from this domain there is a high chance you will lose all your money."
+    },
+    {
+      "type": "domain",
+      "level": "danger",
+      "value": "itautilities.com",
+      "message": "POTENTIAL RISK, we have identified this domain as a risky domain. If you buy stuff from this domain there is a high chance you will lose all your money."
+    },
+    {
+      "type": "domain",
+      "level": "danger",
+      "value": "krungsri.finance",
+      "message": "POTENTIAL RISK, we have identified this domain as a risky domain. If you buy stuff from this domain there is a high chance you will lose all your money."
+    },
+    {
+      "type": "domain",
+      "level": "danger",
+      "value": "cbdc-tokens.org",
+      "message": "POTENTIAL RISK, we have identified this domain as a risky domain. If you buy stuff from this domain there is a high chance you will lose all your money."
+    },
+    {
+      "type": "domain",
+      "level": "danger",
+      "value": "cryptorussians.ru",
+      "message": "POTENTIAL RISK, we have identified this domain as a risky domain. If you buy stuff from this domain there is a high chance you will lose all your money."
+    },
+    {
+      "type": "domain",
+      "level": "danger",
+      "value": "dzbank.capital",
+      "message": "POTENTIAL RISK, we have identified this domain as a risky domain. If you buy stuff from this domain there is a high chance you will lose all your money."
+    },
+    {
+      "type": "domain",
+      "level": "danger",
+      "value": "bitt.exchange",
+      "message": "POTENTIAL RISK, we have identified this domain as a risky domain. If you buy stuff from this domain there is a high chance you will lose all your money."
+    },
+    {
+      "type": "domain",
+      "level": "danger",
+      "value": "bpfinvest.exchange",
+      "message": "POTENTIAL RISK, we have identified this domain as a risky domain. If you buy stuff from this domain there is a high chance you will lose all your money."
+    },
+    {
+      "type": "domain",
+      "level": "danger",
+      "value": "vebrf.digital",
+      "message": "POTENTIAL RISK, we have identified this domain as a risky domain. If you buy stuff from this domain there is a high chance you will lose all your money."
+    },
+    {
+      "type": "domain",
+      "level": "danger",
+      "value": "stelar-commodes.com",
+      "message": "POTENTIAL RISK, we have identified this domain as a risky domain. If you buy stuff from this domain there is a high chance you will lose all your money."
+    },
+    {
+      "type": "domain",
+      "level": "danger",
+      "value": "stellar-commodities.com",
+      "message": "POTENTIAL RISK, we have identified this domain as a risky domain. If you buy stuff from this domain there is a high chance you will lose all your money."
+    },
+    {
+      "type": "domain",
+      "level": "danger",
+      "value": "induspayments.com",
+      "message": "POTENTIAL RISK, we have identified this domain as a risky domain. If you buy stuff from this domain there is a high chance you will lose all your money."
+    },
+    {
+      "type": "domain",
+      "level": "danger",
+      "value": "vestinwolf.in",
+      "message": "POTENTIAL RISK, we have identified this domain as a risky domain. If you buy stuff from this domain there is a high chance you will lose all your money."
+    },
+    {
+      "type": "domain",
+      "level": "danger",
+      "value": "stellarassets.org",
+      "message": "POTENTIAL RISK, we have identified this domain as a risky domain. If you buy stuff from this domain there is a high chance you will lose all your money."
+    },
+    {
+      "type": "domain",
+      "level": "danger",
+      "value": "indus.consulting",
+      "message": "POTENTIAL RISK, we have identified this domain as a risky domain. If you buy stuff from this domain there is a high chance you will lose all your money."
+    },
+    {
+      "type": "domain",
+      "level": "danger",
+      "value": "stellarbonds.exchange",
+      "message": "POTENTIAL RISK, we have identified this domain as a risky domain. If you buy stuff from this domain there is a high chance you will lose all your money."
+    },
+    {
+      "type": "domain",
+      "level": "danger",
+      "value": "tascombank.exchange",
+      "message": "POTENTIAL RISK, we have identified this domain as a risky domain. If you buy stuff from this domain there is a high chance you will lose all your money."
+    },
+    {
+      "type": "domain",
+      "level": "danger",
+      "value": "indus.education",
+      "message": "POTENTIAL RISK, we have identified this domain as a risky domain. If you buy stuff from this domain there is a high chance you will lose all your money."
+    },
+    {
+      "type": "domain",
+      "level": "danger",
+      "value": "stellarfunds.org",
+      "message": "POTENTIAL RISK, we have identified this domain as a risky domain. If you buy stuff from this domain there is a high chance you will lose all your money."
+    },
+    {
+      "type": "domain",
+      "level": "danger",
+      "value": "stellarhedgefunds.com",
+      "message": "POTENTIAL RISK, we have identified this domain as a risky domain. If you buy stuff from this domain there is a high chance you will lose all your money."
+    },
+    {
+      "type": "domain",
+      "level": "danger",
+      "value": "stellar-go.com",
+      "message": "POTENTIAL RISK, we have identified this domain as a risky domain. If you buy stuff from this domain there is a high chance you will lose all your money."
+    },
+    {
+      "type": "domain",
+      "level": "danger",
+      "value": "go-dls.com",
+      "message": "POTENTIAL RISK, we have identified this domain as a risky domain. If you buy stuff from this domain there is a high chance you will lose all your money."
+    },
+    {
+      "type": "domain",
+      "level": "danger",
+      "value": "floridainvestorsgroup.com",
+      "message": "POTENTIAL RISK, we have identified this domain as a risky domain. If you buy stuff from this domain there is a high chance you will lose all your money."
+    },
+    {
+      "type": "domain",
+      "level": "danger",
+      "value": "indus.health",
+      "message": "POTENTIAL RISK, we have identified this domain as a risky domain. If you buy stuff from this domain there is a high chance you will lose all your money."
+    },
+    {
+      "type": "domain",
+      "level": "danger",
+      "value": "steel.stellar-commodies.com",
+      "message": "POTENTIAL RISK, we have identified this domain as a risky domain. If you buy stuff from this domain there is a high chance you will lose all your money."
+    },
+    {
+      "type": "domain",
+      "level": "danger",
+      "value": "stellaretfs.com",
+      "message": "POTENTIAL RISK, we have identified this domain as a risky domain. If you buy stuff from this domain there is a high chance you will lose all your money."
+    },
+    {
+      "type": "domain",
+      "level": "danger",
+      "value": "stellarrealestate.org",
+      "message": "POTENTIAL RISK, we have identified this domain as a risky domain. If you buy stuff from this domain there is a high chance you will lose all your money."
+    },
+    {
+      "type": "domain",
+      "level": "danger",
+      "value": "swisscustody.org",
+      "message": "POTENTIAL RISK, we have identified this domain as a risky domain. If you buy stuff from this domain there is a high chance you will lose all your money."
+    },
+    {
+      "type": "domain",
+      "level": "danger",
+      "value": "ximinr.com",
+      "message": "POTENTIAL RISK, we have identified this domain as a risky domain. If you buy stuff from this domain there is a high chance you will lose all your money."
+    },
+    {
+      "type": "domain",
+      "level": "danger",
+      "value": "luxbank.co",
+      "message": "POTENTIAL RISK, we have identified this domain as a risky domain. If you buy stuff from this domain there is a high chance you will lose all your money."
+    },
+    {
+      "type": "domain",
+      "level": "danger",
+      "value": "indus.gold",
+      "message": "POTENTIAL RISK, we have identified this domain as a risky domain. If you buy stuff from this domain there is a high chance you will lose all your money."
+    },
+    {
+      "type": "domain",
+      "level": "danger",
+      "value": "indus.business",
+      "message": "POTENTIAL RISK, we have identified this domain as a risky domain. If you buy stuff from this domain there is a high chance you will lose all your money."
+    },
+    {
+      "type": "domain",
+      "level": "danger",
+      "value": "indus.exchange",
+      "message": "POTENTIAL RISK, we have identified this domain as a risky domain. If you buy stuff from this domain there is a high chance you will lose all your money."
+    },
+    {
+      "type": "domain",
+      "level": "danger",
+      "value": "ultrastellar.co",
+      "message": "POTENTIAL RISK, we have identified this domain as a risky domain. If you buy stuff from this domain there is a high chance you will lose all your money."
+    },
+    {
+      "type": "domain",
+      "level": "danger",
+      "value": "ultra-stellar.org",
+      "message": "POTENTIAL RISK, we have identified this domain as a risky domain. If you buy stuff from this domain there is a high chance you will lose all your money."
+    },
+    {
+      "type": "domain",
+      "level": "danger",
+      "value": "ultra-stellar.com",
+      "message": "POTENTIAL RISK, we have identified this domain as a risky domain. If you buy stuff from this domain there is a high chance you will lose all your money."
+    },
+    {
+      "type": "domain",
+      "level": "danger",
+      "value": "ultrastellar.trade",
+      "message": "POTENTIAL RISK, we have identified this domain as a risky domain. If you buy stuff from this domain there is a high chance you will lose all your money."
+    },
+    {
+      "type": "domain",
+      "level": "danger",
+      "value": "aqua-network.org",
+      "message": "POTENTIAL RISK, we have identified this domain as a risky domain. If you buy stuff from this domain there is a high chance you will lose all your money."
+    },
+    {
+      "type": "domain",
+      "level": "danger",
+      "value": "lobstrnetwork.com",
+      "message": "POTENTIAL RISK, we have identified this domain as a risky domain. If you buy stuff from this domain there is a high chance you will lose all your money."
+    },
+    {
+      "type": "domain",
+      "level": "danger",
+      "value": "stellarterm.xyz",
+      "message": "POTENTIAL RISK, we have identified this domain as a risky domain. If you buy stuff from this domain there is a high chance you will lose all your money."
+    },
+    {
+      "type": "domain",
+      "level": "danger",
+      "value": "stellarx.network",
+      "message": "POTENTIAL RISK, we have identified this domain as a risky domain. If you buy stuff from this domain there is a high chance you will lose all your money."
+    },
+    {
+      "type": "domain",
+      "level": "danger",
+      "value": "stellartermasset.com",
+      "message": "POTENTIAL RISK, we have identified this domain as a risky domain. If you buy stuff from this domain there is a high chance you will lose all your money."
+    },
+    {
+      "type": "domain",
+      "level": "danger",
+      "value": "lobstrasset.com",
+      "message": "POTENTIAL RISK, we have identified this domain as a risky domain. If you buy stuff from this domain there is a high chance you will lose all your money."
+    },
+    {
+      "type": "domain",
+      "level": "danger",
+      "value": "blackbox-exchange.com",
+      "message": "POTENTIAL RISK, we have identified this domain as a risky domain. If you buy stuff from this domain there is a high chance you will lose all your money."
+    },
+    {
+      "type": "domain",
+      "level": "danger",
+      "value": "blackbox.exchange",
+      "message": "POTENTIAL RISK, we have identified this domain as a risky domain. If you buy stuff from this domain there is a high chance you will lose all your money."
+    },
+    {
+      "type": "domain",
+      "level": "danger",
+      "value": "lobstrvault.com",
+      "message": "POTENTIAL RISK, we have identified this domain as a risky domain. If you buy stuff from this domain there is a high chance you will lose all your money."
+    },
+    {
+      "type": "domain",
+      "level": "danger",
+      "value": "aqua.trading",
+      "message": "POTENTIAL RISK, we have identified this domain as a risky domain. If you buy stuff from this domain there is a high chance you will lose all your money."
+    },
+    {
+      "type": "domain",
+      "level": "danger",
+      "value": "aqua.markets",
+      "message": "POTENTIAL RISK, we have identified this domain as a risky domain. If you buy stuff from this domain there is a high chance you will lose all your money."
+    },
+    {
+      "type": "domain",
+      "level": "danger",
+      "value": "uniquestellar.com",
+      "message": "POTENTIAL RISK, we have identified this domain as a risky domain. If you buy stuff from this domain there is a high chance you will lose all your money."
+    },
+    {
+      "type": "domain",
+      "level": "danger",
+      "value": "ulltrastellar.com",
+      "message": "POTENTIAL RISK, we have identified this domain as a risky domain. If you buy stuff from this domain there is a high chance you will lose all your money."
+    },
+    {
+      "type": "domain",
+      "level": "danger",
+      "value": "stellarx.trade",
+      "message": "POTENTIAL RISK, we have identified this domain as a risky domain. If you buy stuff from this domain there is a high chance you will lose all your money."
+    },
+    {
+      "type": "domain",
+      "level": "danger",
+      "value": "stellarx.exchange",
+      "message": "POTENTIAL RISK, we have identified this domain as a risky domain. If you buy stuff from this domain there is a high chance you will lose all your money."
+    },
+    {
+      "type": "domain",
+      "level": "danger",
+      "value": "stellarterm.trade",
+      "message": "POTENTIAL RISK, we have identified this domain as a risky domain. If you buy stuff from this domain there is a high chance you will lose all your money."
+    },
+    {
+      "type": "domain",
+      "level": "danger",
+      "value": "stellarterm.exchange",
+      "message": "POTENTIAL RISK, we have identified this domain as a risky domain. If you buy stuff from this domain there is a high chance you will lose all your money."
+    },
+    {
+      "type": "domain",
+      "level": "danger",
+      "value": "lobstr.trade",
+      "message": "POTENTIAL RISK, we have identified this domain as a risky domain. If you buy stuff from this domain there is a high chance you will lose all your money."
+    },
+    {
+      "type": "domain",
+      "level": "danger",
+      "value": "lobstr.exchange",
+      "message": "POTENTIAL RISK, we have identified this domain as a risky domain. If you buy stuff from this domain there is a high chance you will lose all your money."
+    },
+    {
+      "type": "domain",
+      "level": "danger",
+      "value": "lohstr.co",
+      "message": "POTENTIAL RISK, we have identified this domain as a risky domain. If you buy stuff from this domain there is a high chance you will lose all your money."
+    },
+    {
+      "type": "domain",
+      "level": "danger",
+      "value": "stellarterm.org",
+      "message": "POTENTIAL RISK, we have identified this domain as a risky domain. If you buy stuff from this domain there is a high chance you will lose all your money."
+    },
+    {
+      "type": "domain",
+      "level": "danger",
+      "value": "strongholdpayx.co",
+      "message": "POTENTIAL RISK, we have identified this domain as a risky domain. If you buy stuff from this domain there is a high chance you will lose all your money."
+    },
+    {
+      "type": "domain",
+      "level": "danger",
+      "value": "stronghold-network.co",
+      "message": "POTENTIAL RISK, we have identified this domain as a risky domain. If you buy stuff from this domain there is a high chance you will lose all your money."
+    },
+    {
+      "type": "domain",
+      "level": "danger",
+      "value": "luckystellar.com",
+      "message": "POTENTIAL RISK, we have identified this domain as a risky domain. If you buy stuff from this domain there is a high chance you will lose all your money."
+    },
+    {
+      "type": "domain",
+      "level": "danger",
+      "value": "stellarlumens.network",
+      "message": "POTENTIAL RISK, we have identified this domain as a risky domain. If you buy stuff from this domain there is a high chance you will lose all your money."
+    },
+    {
+      "type": "domain",
+      "level": "danger",
+      "value": "stocksstellar.com",
+      "message": "POTENTIAL RISK, we have identified this domain as a risky domain. If you buy stuff from this domain there is a high chance you will lose all your money."
+    },
+    {
+      "type": "domain",
+      "level": "danger",
+      "value": "truststellar.com",
+      "message": "POTENTIAL RISK, we have identified this domain as a risky domain. If you buy stuff from this domain there is a high chance you will lose all your money."
+    },
+    {
+      "type": "domain",
+      "level": "danger",
+      "value": "stellarhidden.com",
+      "message": "POTENTIAL RISK, we have identified this domain as a risky domain. If you buy stuff from this domain there is a high chance you will lose all your money."
+    },
+    {
+      "type": "domain",
+      "level": "danger",
+      "value": "quantumgold.digital",
+      "message": "POTENTIAL RISK, we have identified this domain as a risky domain. If you buy stuff from this domain there is a high chance you will lose all your money."
+    },
+    {
+      "type": "domain",
+      "level": "danger",
+      "value": "quantumdollar.digital",
+      "message": "POTENTIAL RISK, we have identified this domain as a risky domain. If you buy stuff from this domain there is a high chance you will lose all your money."
+    },
+    {
+      "type": "domain",
+      "level": "danger",
+      "value": "quantum-financial-system.org",
+      "message": "POTENTIAL RISK, we have identified this domain as a risky domain. If you buy stuff from this domain there is a high chance you will lose all your money."
+    },
+    {
+      "type": "domain",
+      "level": "danger",
+      "value": "quantum-financial.network",
+      "message": "POTENTIAL RISK, we have identified this domain as a risky domain. If you buy stuff from this domain there is a high chance you will lose all your money."
+    },
+    {
+      "type": "domain",
+      "level": "danger",
+      "value": "quantum-system.financial",
+      "message": "POTENTIAL RISK, we have identified this domain as a risky domain. If you buy stuff from this domain there is a high chance you will lose all your money."
+    },
+    {
+      "type": "domain",
+      "level": "danger",
+      "value": "quantumstellar.ai",
+      "message": "POTENTIAL RISK, we have identified this domain as a risky domain. If you buy stuff from this domain there is a high chance you will lose all your money."
+    },
+    {
+      "type": "domain",
+      "level": "danger",
+      "value": "vebrf.digital",
+      "message": "POTENTIAL RISK, we have identified this domain as a risky domain. If you buy stuff from this domain there is a high chance you will lose all your money."
+    },
+    {
+      "type": "domain",
+      "level": "danger",
+      "value": "quantumdollars.digital",
+      "message": "POTENTIAL RISK, we have identified this domain as a risky domain. If you buy stuff from this domain there is a high chance you will lose all your money."
+    },
+    {
+      "type": "domain",
+      "level": "danger",
+      "value": "verbf.digital",
+      "message": "POTENTIAL RISK, we have identified this domain as a risky domain. If you buy stuff from this domain there is a high chance you will lose all your money."
+    },
+    {
+      "type": "domain",
+      "level": "danger",
+      "value": "stellarhidden.com",
+      "message": "POTENTIAL RISK, we have identified this domain as a risky domain. If you buy stuff from this domain there is a high chance you will lose all your money."
+    },
+    {
+      "type": "domain",
+      "level": "danger",
+      "value": "stocks-on-stellar.org",
+      "message": "POTENTIAL RISK, we have identified this domain as a risky domain. If you buy stuff from this domain there is a high chance you will lose all your money."
+    },
+    {
+      "type": "domain",
+      "level": "danger",
+      "value": "stellarflies.com",
+      "message": "POTENTIAL RISK, we have identified this domain as a risky domain. If you buy stuff from this domain there is a high chance you will lose all your money."
+    },
+    {
+      "type": "domain",
+      "level": "danger",
+      "value": "stellarasset.co",
+      "message": "POTENTIAL RISK, we have identified this domain as a risky domain. If you buy stuff from this domain there is a high chance you will lose all your money."
+    }
+  ]
+}
