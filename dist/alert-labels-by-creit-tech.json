@@ -557,6 +557,18 @@
     {
       "type": "domain",
       "level": "danger",
+      "value": "stellarkingdom.com",
+      "message": "POTENTIAL RISK, we have identified this domain as a risky domain. If you buy stuff from this domain there is a high chance you will lose all your money. Be careful"
+    },
+    {
+      "type": "domain",
+      "level": "danger",
+      "value": "limitedstellar.com",
+      "message": "POTENTIAL RISK, we have identified this domain as a risky domain. If you buy stuff from this domain there is a high chance you will lose all your money. Be careful"
+    },
+    {
+      "type": "domain",
+      "level": "danger",
       "value": "stellarteam.io",
       "message": "POTENTIAL RISK, we have identified this domain as a risky domain. If you buy stuff from this domain there is a high chance you will lose all your money. Be careful"
     },
@@ -577,6 +589,12 @@
       "level": "danger",
       "value": "stellarasset.co",
       "message": "POTENTIAL RISK, we have identified this domain as a risky domain. If you buy stuff from this domain there is a high chance you will lose all your money. Be careful"
+    },
+    {
+      "type": "domain",
+      "level": "danger",
+      "value": "lobstrr.co",
+      "message": "SCAM, This domain (lobstrr.co) is a SCAM and is not related with the Lobstr wallet."
     }
   ]
 }
