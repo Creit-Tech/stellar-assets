@@ -194,12 +194,6 @@
       "image": "https://uploads-ssl.webflow.com/607f603d2f412c67690368b8/60df683719cc056004ea932b_YBX%20token%20web%20bad.png"
     },
     {
-      "code": "DOGET",
-      "publicKey": "GDOEVDDBU6OBWKL7VHDAOKD77UP4DKHQYKOKJJT5PR3WRDBTX35HUEUX",
-      "domain": "doge-token.com",
-      "image": "https://doge-token.com/doget.png"
-    },
-    {
       "code": "PEN",
       "publicKey": "GA4TDPNUCZPTOHB3TKUYMDCRVATXKEADH7ZEYEBWJKQKE2UBFCYNBPEN",
       "domain": "anclap.com",
@@ -282,6 +276,6 @@
       "publicKey": "GDEGOXPCHXWFYY234D2YZSPEJ24BX42ESJNVHY5H7TWWQSYRN5ZKZE3N",
       "domain": "sureremit.co",
       "image": "https://suregifts.com/.well-known/rmt.png"
-    },
+    }
   ]
 }
