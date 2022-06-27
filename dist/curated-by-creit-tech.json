@@ -21,21 +21,9 @@
       "image": "https://prime.stably.io/images/USDS-logo.svg"
     },
     {
-      "code": "USDT",
-      "publicKey": "GCQTGZQQ5G4PTM2GL7CDIFKUBIPEC52BROAQIAPW53XBRJVN6ZJVTG6V",
-      "domain": "apay.io",
-      "image": "https://apay.io/public/logo/usdt.svg"
-    },
-    {
       "code": "EURT",
       "publicKey": "GAP5LETOV6YIE62YAM56STDANPRDO7ZFDBGSNHJQIYGGKSMOZAHOOS2S",
       "domain": "eurt.exchange"
-    },
-    {
-      "code": "ETH",
-      "publicKey": "GBDEVU63Y6NTHJQQZIKVTC23NWLQVP3WJ2RI2OTSJTNYOIGICST6DUXR",
-      "domain": "apay.io",
-      "image": "https://apay.io/public/logo/eth.png"
     },
     {
       "code": "BTC",
@@ -128,12 +116,6 @@
       "image": "https://luxpayband.io/img/LuxLogo21822.png"
     },
     {
-      "code": "KIN",
-      "publicKey": "GBDEVU63Y6NTHJQQZIKVTC23NWLQVP3WJ2RI2OTSJTNYOIGICST6DUXR",
-      "domain": "apay.io",
-      "image": "https://apay.io/public/logo/kin.svg"
-    },
-    {
       "code": "FRED",
       "publicKey": "GCA73U2PZFWAXJSNVMEVPNPPJCZGETWPWZC6E4DJAIWP3ZW3BAGYZLV6",
       "domain": "fredenergy.org",
@@ -194,12 +176,6 @@
       "image": "https://ultrastellar.com/static/images/icons/BTC.png"
     },
     {
-      "code": "BAT",
-      "publicKey": "GBDEVU63Y6NTHJQQZIKVTC23NWLQVP3WJ2RI2OTSJTNYOIGICST6DUXR",
-      "domain": "apay.io",
-      "image": "https://apay.io/public/logo/bat.svg"
-    },
-    {
       "code": "KES",
       "publicKey": "GA2MSSZKJOU6RNL3EJKH3S5TB5CDYTFQFWRYFGUJVIN5I6AOIRTLUHTO",
       "domain": "clickpesa.com",
@@ -234,12 +210,6 @@
       "publicKey": "GBVOL67TMUQBGL4TZYNMY3ZQ5WGQYFPFD5VJRWXR72VA33VFNL225PL5",
       "domain": "stellarport.io",
       "image": "https://stellarport.io/assets/issues/xrp.png"
-    },
-    {
-      "code": "BTC",
-      "publicKey": "GAUTUYY2THLF7SGITDFMXJVYH3LHDSMGEAKSBU267M2K7A3W543CKUEF",
-      "domain": "apay.io",
-      "image": "https://apay.io/public/logo/btc.svg"
     },
     {
       "code": "yBTC",
@@ -313,17 +283,5 @@
       "domain": "sureremit.co",
       "image": "https://suregifts.com/.well-known/rmt.png"
     },
-    {
-      "code": "LINK",
-      "publicKey": "GBDEVU63Y6NTHJQQZIKVTC23NWLQVP3WJ2RI2OTSJTNYOIGICST6DUXR",
-      "domain": "apay.io",
-      "image": "https://apay.io/public/logo/link.svg"
-    },
-    {
-      "code": "LTC",
-      "publicKey": "GC5LOR3BK6KIOK7GKAUD5EGHQCMFOGHJTC7I3ELB66PTDFXORC2VM5LP",
-      "domain": "apay.io",
-      "image": "https://apay.io/public/logo/ltc.png"
-    }
   ]
 }
