@@ -236,6 +236,12 @@
       "image": "https://www.mintx.co/images/logo-silver100.png"
     },
     {
+      "code": "TFT",
+      "publicKey": "GBOVQKJYHXRR3DX6NOX2RRYFRCUMSADGDESTDNBDS6CDVLGVESRTAC47",
+      "domain": "threefold.io",
+      "image": "https://threefold.io/assets/static/favicon.ac8d93a.58ac168c914573b5ef7275f1a675e75a.png"
+    },
+    {
       "code": "SHX",
       "publicKey": "GDSTRSHXHGJ7ZIVRBXEYE5Q74XUVCUSEKEBR7UCHEUUEK72N7I7KJ6JH",
       "domain": "stronghold.co",
