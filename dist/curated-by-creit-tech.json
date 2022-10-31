@@ -218,6 +218,18 @@
       "image": "https://interstellar.exchange/app/assets/images/coins/BTC.png"
     },
     {
+      "code": "BTC",
+      "publicKey": "GCQVEST7KIWV3KOSNDDUJKEPZLBFWKM7DUS4TCLW2VNVPCBGTDRVTEIT",
+      "domain": "coinqvest.com",
+      "image": "https://ipfs.io/ipfs/bafkreicymbkuxwhil6i7xo7344iy74aqbtupxpw4r2nicb6qlczgfcbyvu"
+    },
+    {
+      "code": "LTC",
+      "publicKey": "GCQVEST7KIWV3KOSNDDUJKEPZLBFWKM7DUS4TCLW2VNVPCBGTDRVTEIT",
+      "domain": "coinqvest.com",
+      "image": "https://ipfs.io/ipfs/bafkreic6bfeudcu2xdbhiz4gkx5imaz4qynuuhpke22yyo4u2a37y5mz3i"
+    },
+    {
       "code": "ETH",
       "publicKey": "GBVOL67TMUQBGL4TZYNMY3ZQ5WGQYFPFD5VJRWXR72VA33VFNL225PL5",
       "domain": "stellarport.io",
