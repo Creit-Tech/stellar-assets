@@ -254,6 +254,12 @@
       "image": "https://threefold.io/assets/static/favicon.ac8d93a.58ac168c914573b5ef7275f1a675e75a.png"
     },
     {
+      "code": "XXA",
+      "publicKey": "GC4HS4CQCZULIOTGLLPGRAAMSBDLFRR6Y7HCUQG66LNQDISXKIXXADIM",
+      "domain": "ixinium.io",
+      "image": "https://ipfs.io/ipfs/bafkreigme7zfhdyl4nlt6jzq2nvrknbgfihld5ep2r7oj5ivzq5ki4mciq"
+    },
+    {
       "code": "SHX",
       "publicKey": "GDSTRSHXHGJ7ZIVRBXEYE5Q74XUVCUSEKEBR7UCHEUUEK72N7I7KJ6JH",
       "domain": "stronghold.co",
