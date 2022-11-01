@@ -15,6 +15,12 @@
       "image": "https://ultrastellar.com/static/images/icons/yUSDC.png"
     },
     {
+      "code": "AUDD",
+      "publicKey": "GDC7X2MXTYSAKUUGAIQ7J7RPEIM7GXSAIWFYWWH4GLNFECQVJJLB2EEU",
+      "domain": "audd.digital",
+      "image": "https://s3.ap-southeast-2.amazonaws.com/static.audd.digital/AUDD-Logo-Blue.png"
+    },
+    {
       "code": "USDS",
       "publicKey": "GBK4AYTOYIAYT4UJECSQGMACUWLKYOOM4VCAUUZ3Y3FG5XD2LYK3FGK2",
       "domain": "stably.io",
