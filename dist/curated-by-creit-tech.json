@@ -164,6 +164,12 @@
       "image": "https://cowrie.exchange/ngnt-logo.png"
     },
     {
+      "code": "NGNC",
+      "publicKey": "GASBV6W7GGED66MXEVC7YZHTWWYMSVYEY35USF2HJZBLABLYIFQGXZY6",
+      "domain": "ngnc.online",
+      "image": "https://ipfs.io/ipfs/bafkreihz6znqpkcshglbiumxnnhtof4sjvxgdf2ftwiahq3ivywkv2vpu4"
+    },
+    {
       "code": "yETH",
       "publicKey": "GDYQNEF2UWTK4L6HITMT53MZ6F5QWO3Q4UVE6SCGC4OMEQIZQQDERQFD",
       "domain": "ultrastellar.com",
