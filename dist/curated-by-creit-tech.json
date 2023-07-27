@@ -128,12 +128,6 @@
       "image": "https://fredenergy.org/fred-logo-xlm.png"
     },
     {
-      "code": "CSM",
-      "publicKey": "GAFWA2DAM34MK3UVD34ECEHO5QIO2ILHLFOPJC33INPGUPLBC2EVNCSM",
-      "domain": "citystatesm.com",
-      "image": "https://citystatesm.com/assets/csm.png"
-    },
-    {
       "code": "ETH",
       "publicKey": "GCNSGHUCG5VMGLT5RIYYZSO7VQULQKAJ62QA33DBC5PPBSO57LFWVV6P",
       "domain": "interstellar.exchange",
