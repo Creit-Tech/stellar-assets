@@ -29,17 +29,14 @@
     {
       "code": "EURS",
       "publicKey": "GC5FGCDEOGOGSNWCCNKS3OMEVDHTE3Q5A5FEQWQKV3AXA7N6KDQ2CUZJ",
-      "domain": "stasis.net"
+      "domain": "stasis.net",
+      "image": "https://api.stasis.net/uploads/eurs_logo.png"
     },
     {
       "code": "EURC",
       "publicKey": "GAQRF3UGHBT6JYQZ7YSUYCIYWAF4T2SAA5237Q5LIQYJOHHFAWDXZ7NM",
-      "domain": "mykobo.co"
-    },
-    {
-      "code": "EURT",
-      "publicKey": "GAP5LETOV6YIE62YAM56STDANPRDO7ZFDBGSNHJQIYGGKSMOZAHOOS2S",
-      "domain": "eurt.exchange"
+      "domain": "mykobo.co",
+      "image": "https://mykobo.co/assets/img/eurc_icon_128.png"
     },
     {
       "code": "BTC",
