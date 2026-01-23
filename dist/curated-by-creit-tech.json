@@ -9,6 +9,72 @@
       "image": "https://www.centre.io/images/usdc/usdc-icon-86074d9d49.png"
     },
     {
+      "code": "EURC",
+      "publicKey": "GAQRF3UGHBT6JYQZ7YSUYCIYWAF4T2SAA5237Q5LIQYJOHHFAWDXZ7NM",
+      "domain": "mykobo.co",
+      "image": "https://mykobo.co/assets/img/eurc_icon_128.png"
+    },
+    {
+      "code": "bUSDC",
+      "publicKey": "GA57KXF2UAGURRYK4LKTO4BO2JASL2PQCO2C53XUNK5G4CXX6QAL6QNR",
+      "domain": "stellar.xbull.io",
+      "image": "https://stellar.xbull.io/images/assets/bUSDC.png"
+    },
+    {
+      "code": "bEURC",
+      "publicKey": "GA57KXF2UAGURRYK4LKTO4BO2JASL2PQCO2C53XUNK5G4CXX6QAL6QNR",
+      "domain": "stellar.xbull.io",
+      "image": "https://stellar.xbull.io/images/assets/bEURC.png"
+    },
+    {
+      "code": "BLND",
+      "publicKey": "GDJEHTBE6ZHUXSWFI642DCGLUOECLHPF3KSXHPXTSTJ7E3JF6MQ5EZYY",
+      "domain": "blend.capital",
+      "image": "https://stellar.myfilebase.com/ipfs/QmaDc2ArxQom1bFkE7JsqqZ2VdThvLV2GTRimaeJcpxU8L"
+    },
+    {
+      "code": "PYUSD",
+      "publicKey": "GDQE7IXJ4HUHV6RQHIUPRJSEZE4DRS5WY577O2FY6YQ5LVWZ7JZTU2V5",
+      "domain": "token-metadata.paxos.com",
+      "image": "https://424565.fs1.hubspotusercontent-na1.net/hubfs/424565/PYUSDLOGO.png"
+    },
+    {
+      "code": "USDx",
+      "publicKey": "GAVH5ZWACAY2PHPUG4FL3LHHJIYIHOFPSIUGM2KHK25CJWXHAV6QKDMN",
+      "domain": "fxdao.io",
+      "image": "https://stellar.myfilebase.com/ipfs/QmQqpy1GLcGqqsg6DaHqLQntPPuFcdHZYG2pLBpHohvCUd"
+    },
+    {
+      "code": "EURx",
+      "publicKey": "GAVH5ZWACAY2PHPUG4FL3LHHJIYIHOFPSIUGM2KHK25CJWXHAV6QKDMN",
+      "domain": "fxdao.io",
+      "image": "https://stellar.myfilebase.com/ipfs/QmTGegMR2v86ZjzHvhT3DMD6t1ri1VUz82tqRt4SxbFjC1"
+    },
+    {
+      "code": "GBPx",
+      "publicKey": "GAVH5ZWACAY2PHPUG4FL3LHHJIYIHOFPSIUGM2KHK25CJWXHAV6QKDMN",
+      "domain": "fxdao.io",
+      "image": "https://stellar.myfilebase.com/ipfs/QmeGXphMJgKHdhoVxb6P3jEJEkj79WPheLiga7ouNd5EZm"
+    },
+    {
+      "code": "USTRY",
+      "publicKey": "GCRYUGD5NVARGXT56XEZI5CIFCQETYHAPQQTHO2O3IQZTHDH4LATMYWC",
+      "domain": "etherfuse.com",
+      "image": "https://ipfs.io/ipfs/Qmd6LsGNaom39vHxYphGJYzQJAkLRJnFL15Ez6BvfPNQqc"
+    },
+    {
+      "code": "CETES",
+      "publicKey": "GCRYUGD5NVARGXT56XEZI5CIFCQETYHAPQQTHO2O3IQZTHDH4LATMYWC",
+      "domain": "etherfuse.com",
+      "image": "https://ipfs.io/ipfs/QmeiTXsP3D2icaUGVtzYekaDCpBKJ4SRHUVMNw9Qynuq4i"
+    },
+    {
+      "code": "TESOURO",
+      "publicKey": "GCRYUGD5NVARGXT56XEZI5CIFCQETYHAPQQTHO2O3IQZTHDH4LATMYWC",
+      "domain": "etherfuse.com",
+      "image": "https://ipfs.io/ipfs/Qmd6LsGNaom39vHxYphGJYzQJAkLRJnFL15Ez6BvfPNQqc"
+    },
+    {
       "code": "yUSDC",
       "publicKey": "GDGTVWSM4MGS4T7Z6W4RPWOCHE2I6RDFCIFZGS3DOA63LWQTRNZNTTFF",
       "domain": "ultrastellar.com",
@@ -31,12 +97,6 @@
       "publicKey": "GC5FGCDEOGOGSNWCCNKS3OMEVDHTE3Q5A5FEQWQKV3AXA7N6KDQ2CUZJ",
       "domain": "stasis.net",
       "image": "https://api.stasis.net/uploads/eurs_logo.png"
-    },
-    {
-      "code": "EURC",
-      "publicKey": "GAQRF3UGHBT6JYQZ7YSUYCIYWAF4T2SAA5237Q5LIQYJOHHFAWDXZ7NM",
-      "domain": "mykobo.co",
-      "image": "https://mykobo.co/assets/img/eurc_icon_128.png"
     },
     {
       "code": "BTC",
@@ -109,6 +169,12 @@
       "publicKey": "GBFXOHVAS43OIWNIO7XLRJAHT3BICFEIKOJLZVXNT572MISM4CMGSOCC",
       "domain": "ultrastellar.com",
       "image": "https://ultrastellar.com/static/images/icons/ETH.png"
+    },
+    {
+      "code": "EURC",
+      "publicKey": "GDHU6WRG4IEQXM5NZ4BMPKOXHW76MZM4Y2IEMFDVXBSDP6SJY4ITNPP2",
+      "domain": "circle.com",
+      "image": "https://www.circle.com/eurc-icon"
     },
     {
       "code": "BRLT",
